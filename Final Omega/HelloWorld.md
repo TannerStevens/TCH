@@ -35,8 +35,8 @@
 ![sharedimmune] - "Shared Immune"
 
 
-[dot]:./images/Dot.png
-[dotimmune]:./images/DotImmune.png
-[dna]:./images/Latent.png
-[shared]:./images/Shared.png
-[sharedimmune]:./images/SharedImmune.png
+[dot]:./Images/Dot.png
+[dotimmune]:./Images/DotImmune.png
+[dna]:./Images/Latent.png
+[shared]:./Images/Shared.png
+[sharedimmune]:./Images/SharedImmune.png
