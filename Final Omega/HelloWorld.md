@@ -16,7 +16,7 @@
     - Healers: ![dot] to D
     - DPS: ![dot] to B
     ---
-    ## _Critical Error_
+    ### _Critical Error_
 4.
     - Tanks: ![dot] to A
     - DPS: 
