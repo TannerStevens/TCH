@@ -1,4 +1,4 @@
-# Hello World Strat?
+# Hello World Strat
 ## Steps
 1. 
     - Tanks: ![dna] to 1, ![dot] to A
