@@ -19,8 +19,8 @@
 3. After Lights/Super Ahk Rai
 
     * Tanks: Still don't pop Red/Green
-    * Healers: Pop Red/Green
+    * Healers: Pop Blue
 
 4. After 3rd Debuff Wears Off
     
-    * Tanks: Pop Blue!
+    * Tanks: Pop Red/Green!
