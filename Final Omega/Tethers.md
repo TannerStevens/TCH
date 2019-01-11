@@ -23,4 +23,4 @@
 
 4. After 3rd Debuff Wears Off
     
-    * Tanks: Pop Red/Green!!!
+    * Tanks: Pop Blue!
