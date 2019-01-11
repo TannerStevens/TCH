@@ -13,8 +13,8 @@
     * Tanks: Red/Green stay away from Partner
     * Healers:
 
-        * Red/Green: Stay away from Partner
-        * Blue: Pop Tether
+        * Red/Green: Pop Tether (Stack)
+        * Blue: Stack
     
 3. After Lights/Super Ahk Rai
 
