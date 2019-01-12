@@ -13,8 +13,8 @@
     - ![shared] : ![sharedimmune] moves to 2
     ---
 3. 
-    - Healers: ![dot] to D
-    - DPS: ![dot] to B
+    - Healers: ![dot] to D, ![dotimmune] to C
+    - DPS: ![dot] to B, ![dotimmune] to C
     ---
     ### _Critical Error_
 4.
