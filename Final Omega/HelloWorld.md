@@ -23,6 +23,11 @@
         * DPS who had short ![shared] goes to D (with ![dot])
         * DPS who had long ![shared] goes to B (with ![dot])
 
+---
+![individual]
+
+---
+
 ## Legend
 ![dot] - "Dot"
 
@@ -40,3 +45,4 @@
 [dna]:./Images/Latent.png
 [shared]:./Images/Shared.png
 [sharedimmune]:./Images/SharedImmune.png
+[individual]:./Images/HelloWorld_Individual.png
